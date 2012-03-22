@@ -318,7 +318,7 @@ public class MultiWaveView extends View {
 
         mChevronAnimations.clear();
         final float startScale = 0.3f;
-        final float endScale = 2.0f;
+        final float endScale = 1.1f;
         for (int direction = 0; direction < 4; direction++) {
             for (int count = 0; count < mFeedbackCount; count++) {
                 int delay = count * CHEVRON_INCREMENTAL_DELAY;
