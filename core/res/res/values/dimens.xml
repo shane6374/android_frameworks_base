@@ -67,10 +67,10 @@
     <dimen name="password_keyboard_verticalGap">9dip</dimen>
 
     <!-- Size of lockscreen outerring on unsecure unlock LockScreen -->
-    <dimen name="keyguard_lockscreen_outerring_diameter">270dp</dimen>
+    <dimen name="keyguard_lockscreen_outerring_diameter">220dp</dimen>
 
     <!-- Default target placement radius for MultiWaveView -->
-    <dimen name="multiwaveview_target_placement_radius">135dip</dimen>
+    <dimen name="multiwaveview_target_placement_radius">120dip</dimen>
 
     <!-- Default distance beyond which MultiWaveView snaps to the target radius -->
     <dimen name="multiwaveview_snap_margin">20dip</dimen>
